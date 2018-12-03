@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "824221023993",
+    "firebase_url": "https://andrewel-f3afd.firebaseio.com",
+    "project_id": "andrewel-f3afd",
+    "storage_bucket": "andrewel-f3afd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824221023993:android:ddaee342587f30f7",
+        "android_client_info": {
+          "package_name": "com.simcoder.AVWhatsChat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824221023993-b72dq87d51b79j6toccco8s63j2gb0l7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGCCfwULPfA1_SjesAovfabaJKNwqvQBk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
